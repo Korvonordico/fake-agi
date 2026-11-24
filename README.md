@@ -1,10 +1,10 @@
-# F-AGI
+# Fake AGI
 
 *wholeness*
 
 Under construction, coming soon.
 
-F-AGI will bring together a set of tools around an AI agent and use, each time, only the ones a job needs. Each tool also works on its own.
+Fake AGI will bring together a set of tools around an AI agent and use, each time, only the ones a job needs. Each tool also works on its own.
 
 ## Modules already public
 
